@@ -2,7 +2,6 @@ import pygame
 import random
 import time
 from pygame.constants import HIDDEN
-#hello
 WIDTH = 500
 HEIGHT = 600
 ROCK_COUNT = 8
