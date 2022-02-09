@@ -1,5 +1,6 @@
 import random
 import numpy as np
+#changes
 f = open("words.txt","r")
 wordList = []
 for i in f:
